@@ -16,18 +16,18 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Neque sed pellentesque vita
 * TypeScript
 * Git, GitHub
 ## Code Examples:
-let num1 = parseInt(prompt('Введите ваше число', 0))
-let num2 = parseInt(prompt('Введите ваше число', 0))
-let result = +num1 + +num2
-let result2 = num1 - num2
-let result3 = num1 * num2
-let result4 = num1 / num2
-alert (`${result}, ${result2}, ${result3}, ${result4}`)
+`let num1 = parseInt(prompt('Введите ваше число', 0))`
+`let num2 = parseInt(prompt('Введите ваше число', 0))`
+`let result = +num1 + +num2`
+`let result2 = num1 - num2`
+`let result3 = num1 * num2`
+`let result4 = num1 / num2`
+`alert (`${result}, ${result2}, ${result3}, ${result4}`)`
 ## Education:
 * ITC Bootcamp 
-+ Frontend courses
+* Frontend courses
 * Epam corses
-+ FullStack
+* FullStack
 ## Languages:
 * Kyrgyz - native
 * Russian - fluently

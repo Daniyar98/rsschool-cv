@@ -45,14 +45,6 @@ let result3 = num1 * num2;
 let result4 = num1 / num2;
 alert(`${result}, ${result2}, ${result3}, ${result4}`);
 
-## Education:
-* ITC Bootcamp 
-* Frontend courses
-* Epam corses
-* FullStack
-## Languages:
-* Kyrgyz - native
-* Russian - fluently
-* English - B2
+
 
 
